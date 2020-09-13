@@ -151,5 +151,12 @@ D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Worksp
 D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Desktop\TLCN\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\Desktop\TLCN\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
 D:\Desktop\TLCN\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\TLCN\API\API\bin\Debug\netcoreapp3.1\API.xml
+D:\Desktop\TLCN\API\API\obj\Debug\netcoreapp3.1\API.xml
